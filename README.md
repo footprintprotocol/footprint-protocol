@@ -145,3 +145,6 @@ Core indexing logic and detection methodologies are intentionally not public at 
 
 Footprint Protocol  
 _On-chain footprints never disappear._
+##Doumentation
+-Whitepaper: docs/whitepaper.md
+link whitepaper in README
